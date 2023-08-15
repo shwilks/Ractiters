@@ -1,0 +1,10 @@
+
+dependencies:
+  - name: RacTiter
+    version: 1.0.0
+    src: htmlwidgets/RacTiter/lib
+    script:
+      - plotly.js
+      - core.js
+      - lineplot.js
+      - scatterplot.js
