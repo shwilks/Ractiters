@@ -2,10 +2,22 @@
 % Please edit documentation in R/RacTiter.R
 \name{RacTiter}
 \alias{RacTiter}
-\title{<Add Title>}
+\title{\if{html}{\out{
+<Add Title>
+}}}
 \usage{
-RacTiter(titerdata, width = NULL, height = NULL, elementId = NULL)
+RacTiter(
+  titerdata,
+  ag_order,
+  ag_sequences = NULL,
+  mode = "lineplot",
+  width = NULL,
+  height = NULL,
+  elementId = NULL
+)
 }
 \description{
+\if{html}{\out{
 <Add Description>
+}}
 }

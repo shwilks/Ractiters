@@ -2,5 +2,10 @@
 
 export(RacTiter)
 export(RacTiterOutput)
+export(long_ag_info)
+export(long_map_info)
+export(long_map_list_info)
+export(long_sr_info)
+export(long_titer_info)
 export(renderRacTiter)
 import(htmlwidgets)
